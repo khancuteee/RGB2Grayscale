@@ -1,0 +1,3 @@
+1. Convert file bmp(RGB) to hex : use matlab.
+2. solve the problem on file hex : use verilog code.
+3.Convert file hex to image(grayscale) : use matlab
